@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://dj82y7v0dktrg"]
+
+[ext_resource type="PackedScene" uid="uid://dng6j5rrdtvt1" path="res://addons/2026_02_28_gdp_view_my_3d_model/scene/demo_xeno.tscn" id="1_2abok"]
+
+[node name="Demo2dPortfolio" type="Node3D" unique_id=652334200]
+
+[node name="Node3DXeno1meter" parent="." unique_id=570336711 instance=ExtResource("1_2abok")]
+transform = Transform3D(2.39, 0, 0, 0, 2.39, 0, 0, 0, 2.39, 0, 0, 0)
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=623240025]
+transform = Transform3D(1, 0, 0, 0, 0.9972837, 0.07365594, 0, -0.07365594, 0.9972837, 0, 1.3100014, 2.3615248)
+
+[node name="OmniLight3D" type="OmniLight3D" parent="Camera3D" unique_id=1508263946]

@@ -2,14 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wl7bwy2hbraq"
+uid="uid://0ak5iylsxyes"
 path.s3tc="res://.godot/imported/xeno_raven_1.png-6d36340223d972c13e36ae58843e0b2e.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
-}
-generator_parameters={
-"md5": "6f970138e2f7ae3e04b04e06cbd3ba89"
 }
 
 [deps]
