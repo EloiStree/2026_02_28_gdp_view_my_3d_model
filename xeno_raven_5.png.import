@@ -3,9 +3,9 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx522glga82kg"
-path.s3tc="res://.godot/imported/xeno_raven_5.png-260652a234ee6aea44c50e61a387c9be.s3tc.ctex"
+path.etc2="res://.godot/imported/xeno_raven_5.png-260652a234ee6aea44c50e61a387c9be.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://addons/2026_02_28_gdp_view_my_3d_model/xeno_raven_5.png"
-dest_files=["res://.godot/imported/xeno_raven_5.png-260652a234ee6aea44c50e61a387c9be.s3tc.ctex"]
+dest_files=["res://.godot/imported/xeno_raven_5.png-260652a234ee6aea44c50e61a387c9be.etc2.ctex"]
 
 [params]
 
