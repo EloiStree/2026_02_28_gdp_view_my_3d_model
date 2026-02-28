@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://duo4edyv7ih6n"
-path.s3tc="res://.godot/imported/xeno_raven_4.png-f2dafa3925f2bacdad10132cd50e8b80.s3tc.ctex"
+uid="uid://wl7bwy2hbraq"
+path.s3tc="res://.godot/imported/xeno_raven_1.png-6d36340223d972c13e36ae58843e0b2e.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "e1b0bf1212272629cca57833a634260c"
+"md5": "6f970138e2f7ae3e04b04e06cbd3ba89"
 }
 
 [deps]
 
-source_file="res://addons/2026_02_28_gdp_view_my_3d_model/xeno_raven_4.png"
-dest_files=["res://.godot/imported/xeno_raven_4.png-f2dafa3925f2bacdad10132cd50e8b80.s3tc.ctex"]
+source_file="res://addons/2026_02_28_gdp_view_my_3d_model/3d/xeno_raven_1.png"
+dest_files=["res://.godot/imported/xeno_raven_1.png-6d36340223d972c13e36ae58843e0b2e.s3tc.ctex"]
 
 [params]
 

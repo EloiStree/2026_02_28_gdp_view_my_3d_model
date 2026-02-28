@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bkfwft4iyneo7"
-path="res://.godot/imported/xeno_raven.glb-46d5cb377629a4d426b2aff1b478d096.scn"
+uid="uid://digely08ccajf"
+path="res://.godot/imported/low-poly_truck_car_drifter.glb-fe95240b8f1b9ce02d1ac320abfcfc18.scn"
 
 [deps]
 
-source_file="res://addons/2026_02_28_gdp_view_my_3d_model/xeno_raven.glb"
-dest_files=["res://.godot/imported/xeno_raven.glb-46d5cb377629a4d426b2aff1b478d096.scn"]
+source_file="res://addons/2026_02_28_gdp_view_my_3d_model/3d/low-poly_truck_car_drifter.glb"
+dest_files=["res://.godot/imported/low-poly_truck_car_drifter.glb-fe95240b8f1b9ce02d1ac320abfcfc18.scn"]
 
 [params]
 
