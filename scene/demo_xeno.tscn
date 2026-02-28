@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://dng6j5rrdtvt1"]
+
+[ext_resource type="PackedScene" uid="uid://bkfwft4iyneo7" path="res://addons/2026_02_28_gdp_view_my_3d_model/xeno_raven.glb" id="1_o68xf"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_fkb8k"]
+
+[node name="Node3DXeno1meter" type="Node3D" unique_id=570336711]
+
+[node name="Sketchfab_Scene" parent="." unique_id=335164332 instance=ExtResource("1_o68xf")]
+transform = Transform3D(0.004, 0, 0, 0, 0.004, 0, 0, 0, 0.004, 0, 0, 0)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=1573031053]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5067172, 0)
+mesh = SubResource("BoxMesh_fkb8k")
