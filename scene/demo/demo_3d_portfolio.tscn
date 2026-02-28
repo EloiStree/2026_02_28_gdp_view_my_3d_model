@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://b3o1i7sf8an5s"]
+
+[ext_resource type="PackedScene" uid="uid://dng6j5rrdtvt1" path="res://addons/2026_02_28_gdp_view_my_3d_model/scene/demo_xeno.tscn" id="1_isl3f"]
+[ext_resource type="Script" uid="uid://o7b0btwcvy87" path="res://addons/2026_02_28_gdp_view_my_3d_model/portfolio_start_xr.gd" id="2_n2tps"]
+
+[node name="Demo3dPortfolio" type="Node3D" unique_id=2083226853]
+
+[node name="XROrigin3D" type="XROrigin3D" parent="." unique_id=32769925]
+
+[node name="XRCamera3D" type="XRCamera3D" parent="XROrigin3D" unique_id=1966821567]
+
+[node name="OmniLight3D" type="OmniLight3D" parent="XROrigin3D/XRCamera3D" unique_id=1520966552]
+
+[node name="Node3DXeno1meter" parent="." unique_id=570336711 instance=ExtResource("1_isl3f")]
+transform = Transform3D(2.3, 0, 0, 0, 2.3, 0, 0, 0, 2.3, 0, 0, -1.815975)
+
+[node name="Node3DStartXR" type="Node3D" parent="." unique_id=1559259872]
+script = ExtResource("2_n2tps")
